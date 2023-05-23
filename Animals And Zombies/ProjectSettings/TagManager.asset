@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Ball
+  - GoldCount
+  - Tile
+  - System
+  - Ground
+  - Gold
+  - Enemy_Ball
+  - Level
+  - Rock
+  - Blaze
+  - MiniGold
+  - Water
+  - Trap
   layers:
   - Default
   - TransparentFX
@@ -13,30 +27,30 @@ TagManager:
   - UI
   - 
   - 
+  - Horse
+  - Monster
+  - Monster2
+  - Montes3
+  - Fast
+  - Witch
+  - Monster4
+  - Frog
+  - Blaze
+  - Freeze
+  - Mouse
+  - Mushroom
+  - Owl
+  - Bunny
+  - Aqua
+  - Aqua2
+  - Aqua3
+  - Ball
+  - Strone
+  - Tank
+  - zombies1
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Hyp
   m_SortingLayers:
   - name: Default
     uniqueID: 0
